@@ -1,0 +1,36 @@
+s --> np,vp
+
+
+np --> det,n
+np --> n
+np --> np,newcl
+
+
+newcl --> whnp,newcl2
+newcl2 --> np,tv_past
+newcl2 --> vp
+
+
+
+n --> [people]
+n --> [person]
+n --> [Alice]
+n --> [Bob]
+n --> [Carol]
+
+
+vp --> tv_past,np
+
+whnp --> [that]
+
+det --> [the]
+det --> [three]
+
+tv_past --> [kissed]
+tv_past --> [ignored]
+
+
+
+
+
+initial(s)

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/FSA.cpp
+FSA.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/FSA.h
+fstream
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/FSA.h
+Node.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/Node.h
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/Node.cpp
+Node.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/Node.h
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/Node.h
+string
+-
+vector
+-
+iostream
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/tester.cpp
+FSA.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/College/2ndyr2ndsem/NLP/Assignments/Assignment1/cmake-build-debug/FSA.h
+iostream
+-
+string
+-
+
