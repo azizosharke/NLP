@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 1/Assignment3/cmake-build-debug/PDA.h
+vector
+-
+rules.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 1/Assignment3/cmake-build-debug/rules.h
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 1/Assignment3/cmake-build-debug/TDPARSE.h
+PDA.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 1/Assignment3/cmake-build-debug/PDA.h
+string
+-
+vector
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 1/Assignment3/cmake-build-debug/TDPARSE_hw_start.cpp
+TDPARSE.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 1/Assignment3/cmake-build-debug/TDPARSE.h
+iostream
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 1/Assignment3/cmake-build-debug/rules.h
+string
+-
+vector
+-
+

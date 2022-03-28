@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/BT_ITEM.h
+PDA.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/PDA.h
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/PDA.h
+vector
+-
+rules.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/rules.h
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/TDPARSE.h
+PDA.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/PDA.h
+string
+-
+vector
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/TDPARSE_BT.h
+TDPARSE.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/TDPARSE.h
+BT_ITEM.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/BT_ITEM.h
+string
+-
+vector
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/TDPARSE_BT_hw_start.cpp
+TDPARSE_BT.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/TDPARSE_BT.h
+iostream
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment3/part 2/Assignment3a/rules.h
+string
+-
+vector
+-
+

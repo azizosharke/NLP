@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Assignment3a.dir/TDPARSE_BT_hw_start.cpp.o CMakeFiles/Assignment3a.dir/td_bt_tester.cpp.o -o Assignment3a.exe -Wl,--out-implib,libAssignment3a.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
