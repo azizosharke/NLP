@@ -1,3 +1,4 @@
+abdelaza@lg12-04:~/assignment3$ ./make2
 0:s --> np,vp
 1:s --> sadv,s
 2:np --> [john]
@@ -12,18 +13,18 @@
 initial is s
 enter the string to be checked maybe john walks
 input is maybe john walks
-WORDS: maybe john walks  STACK: s
+WORDS: maybe john walks  STACK: s 
 WORDS: maybe john walks  STACK: np vp 
-WORDS: maybe john walks  STACK: det n vp
+WORDS: maybe john walks  STACK: det n vp 
 BACKTRACKING to use of rule: np --> det,n
-1 WORDS: maybe john walks STACK: np vp
-WORDS: maybe john walks  STACK: n vp
+1 WORDS: maybe john walks STACK: np vp 
+WORDS: maybe john walks  STACK: n vp 
 BACKTRACKING to use of rule: s --> np,vp
-0 WORDS: maybe john walks STACK: s
-WORDS: maybe john walks  STACK: sadv s
-WORDS: john walks  STACK: s
-WORDS: john walks  STACK: np vp
-WORDS: walks  STACK: vp
-WORDS: walks  STACK: iv
-WORDS:  STACK:
+0 WORDS: maybe john walks STACK: s 
+WORDS: maybe john walks  STACK: sadv s 
+WORDS: john walks  STACK: s 
+WORDS: john walks  STACK: np vp 
+WORDS: walks  STACK: vp 
+WORDS: walks  STACK: iv 
+WORDS:  STACK: 
 yep
