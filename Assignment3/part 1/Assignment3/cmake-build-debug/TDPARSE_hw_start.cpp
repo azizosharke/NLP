@@ -67,13 +67,12 @@ bool TDPARSE::accept(vector<string> key) {
             /* FIX FROM HERE */
 
             for(int i = 0; i < g.rules.size(); i++) {
-                if(g.rules[i].mother == pda.top()) {
-                    pda.pop();
-                    for(int j = g.rules[i].dtrs.size() - 1; j >= 0; j--) {
-                        pda.push(g.rules[i].dtrs[j]);
-                    }
-                    break;
+                if (!(g.rules[i].mother == pda.top())) continue;
+                pda.pop();
+                for(int j = g.rules[i].dtrs.size() - 1; j >= 0; j--) {
+                    pda.push(g.rules[i].dtrs[j]);
                 }
+                break;
             }
 
             /* TO HERE */

@@ -1,3 +1,5 @@
+abdelaza@lg12-04:~/assignment3$ chmod +x make
+abdelaza@lg12-04:~/assignment3$ ./make
 0:s --> np,vp
 1:np --> det,n
 2:det --> [the]
@@ -9,13 +11,13 @@ initial is s
 enter the string to be checked the man hit the dog
 input is the man hit the dog
 WORDS: the man hit the dog  STACK: s 
-WORDS: the man hit the dog  STACK: np vp
-WORDS: the man hit the dog  STACK: det n vp
-WORDS: man hit the dog  STACK: n vp
-WORDS: hit the dog  STACK: vp
-WORDS: hit the dog  STACK: tv np
-WORDS: the dog  STACK: np
-WORDS: the dog  STACK: det n
-WORDS: dog  STACK: n
-WORDS:  STACK:
+WORDS: the man hit the dog  STACK: np vp 
+WORDS: the man hit the dog  STACK: det n vp 
+WORDS: man hit the dog  STACK: n vp 
+WORDS: hit the dog  STACK: vp 
+WORDS: hit the dog  STACK: tv np 
+WORDS: the dog  STACK: np 
+WORDS: the dog  STACK: det n 
+WORDS: dog  STACK: n 
+WORDS:  STACK: 
 yep
