@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment4/cmake-build-debug/CHART.h
+string
+-
+vector
+-
+rules.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment4/cmake-build-debug/rules.h
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment4/cmake-build-debug/CHART_hw_start.cpp
+CHART.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment4/cmake-build-debug/CHART.h
+iostream
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/Assignment4/cmake-build-debug/rules.h
+string
+-
+vector
+-
+
